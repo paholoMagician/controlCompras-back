@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\Administrador\Desktop\Proyecto\seinAppBackend\bin\Release\net7.0\publish\</_PublishTargetUrl>
+    <History>True|2024-06-03T17:10:46.2103528Z;True|2024-06-03T11:20:24.7224440-05:00;True|2024-06-03T11:08:36.9244446-05:00;True|2024-06-03T11:07:39.6504440-05:00;True|2024-06-03T10:55:19.9264460-05:00;True|2024-06-03T10:31:42.1624581-05:00;True|2024-05-27T16:08:05.9737365-05:00;True|2024-05-27T15:39:37.2825882-05:00;True|2024-05-27T13:59:33.5847559-05:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>
